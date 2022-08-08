@@ -1,8 +1,8 @@
 <template>
-    <div class="flex w-screen justify-center bg-base-200">
+    <div class="flex w-screen justify-center bg-base-300">
         <div class="glass -mt-24 lg:-mt-16 w-4/5 p-5 mb-10 rounded">
             <div class="navbar">
-                <span class="normal-case text-4xl mb-10 text-white">Mes projets</span>
+                <span class="normal-case text-4xl mb-10 text-white font-bold">Mes projets</span>
             </div>
             
             <a href="https://github.com/blurp748/QuestMaster" class="hero bg-base-100 rounded py-10 my-5 hover:scale-105 drop-shadow-xl hover:drop-shadow-2xl ease-linear duration-150">

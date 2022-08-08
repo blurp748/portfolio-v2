@@ -5,7 +5,7 @@
                 <h1 class="card-title sm:text-3xl lg:text-7xl">Bonjour,</h1>
                 <p class="sm:text-1xl lg:text-3xl">
                     <br/>
-                    Actuellement en troisième année de licence en informatique, je m'épanouis
+                    Actuellement en première année de Master en informatique, je m'épanouis
                     complétement dans mon domaine.<br />
                     J'aime le développement et j'aimerais en connaître toujours plus sur les
                     technologies que je manipule.<br />
