@@ -1,6 +1,6 @@
 <template>
     <div class="flex w-full justify-center bg-base-300">
-        <div class="glass -mt-24 lg:-mt-16 w-4/5 p-5 mb-10 rounded">
+        <div class="glass -mt-16 w-4/5 p-5 mb-10 rounded">
             <div class="navbar">
                 <span class="normal-case text-4xl mb-10 text-white font-bold">Mes projets</span>
             </div>
